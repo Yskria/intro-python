@@ -1,6 +1,6 @@
 # Introduction to programming with Python
 
-Go to this repo.
+Go to this repo and fork it.
 
 ![qr-code](qr-code.png)
 
