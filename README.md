@@ -2,7 +2,7 @@
 
 Go to this repo.
 
-![qr-code]("qr-code/png")
+![qr-code](qr-code.png)
 
 Click on the image to download the book.
 
