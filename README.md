@@ -4,7 +4,7 @@
 
 ![qr-code](qr-code.png)
 
--Fork it
+- Fork it
 
 ![](https://www.freecodecamp.org/news/content/images/2022/02/GitHub-Fork.gif)
 
