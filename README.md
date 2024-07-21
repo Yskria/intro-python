@@ -4,11 +4,13 @@
 
 To create your own copy of the repository, follow these steps:
 
-1. **Go to the repository page**: Navigate to this GitHub repository.
+1. **Go to the repository page**:
+
+<h2><mark>bit.ly/m3dm-intro-python</mark></h2>
 
 ![QR Code](qr-code.png)
 
-### bit.ly/m3dm-intro-python
+
 
 2. **Fork the repository**: 
    - In the top-right corner of the repository page, click the `Fork` button. 
