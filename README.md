@@ -1,16 +1,12 @@
 # Introduction to Programming with Python
 
-## Step 1: Access the Repository
-
-Go to the following repository:
-
-![QR Code](qr-code.png)
-
-## Step 2: Fork the Repository
+## Step 1: Fork the Repository
 
 To create your own copy of the repository, follow these steps:
 
-1. **Go to the repository page**: Navigate to the GitHub repository you want to fork.
+1. **Go to the repository page**: Navigate to this GitHub repository.
+
+![QR Code](qr-code.png)
 
 2. **Fork the repository**: 
    - In the top-right corner of the repository page, click the `Fork` button. 
@@ -22,6 +18,8 @@ To create your own copy of the repository, follow these steps:
 
    ![Codespaces](codespaces.png)
 
-- Download the book (click image)
+## Step 1: Fork the Repository
+
+- Click on the image below to download the book that will be used throughout this tutorial. We'll be discussing chapters 1 through 4.
 
 [![book](book.jpeg)](https://drive.google.com/uc?export=download&id=1JoH2u7UZ82ZWywKAaHF0k85nQOuBZAb4)
