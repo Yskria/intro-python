@@ -14,7 +14,7 @@ To create your own copy of the repository, follow these steps:
    
    ![Forking a Repository](https://www.freecodecamp.org/news/content/images/2022/02/GitHub-Fork.gif)
 
-3. Click the <> `Code` button, then click the `Codespaces` tab and create a codespace.
+3. Navigate to your copy of the repository. Click the <> `Code` button, then click the `Codespaces` tab and create a codespace.
 
    ![Codespaces](codespaces.png)
 
