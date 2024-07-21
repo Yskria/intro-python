@@ -1,12 +1,26 @@
-# Introduction to programming with Python
+# Introduction to Programming with Python
 
-- Go to this repo
+## Step 1: Access the Repository
 
-![qr-code](qr-code.png)
+Go to the following repository:
 
-- Fork it
+![QR Code](qr-code.png)
 
-![](https://www.freecodecamp.org/news/content/images/2022/02/GitHub-Fork.gif)
+## Step 2: Fork the Repository
+
+To create your own copy of the repository, follow these steps:
+
+1. **Go to the repository page**: Navigate to the GitHub repository you want to fork.
+
+2. **Fork the repository**: 
+   - In the top-right corner of the repository page, click the `Fork` button. 
+   - This will create a copy of the repository under your GitHub account.
+   
+   ![Forking a Repository](https://www.freecodecamp.org/news/content/images/2022/02/GitHub-Fork.gif)
+
+3. Click the <> `Code` button, then click the `Codespaces` tab and create a codespace.
+
+   ![Codespaces](codespaces.png)
 
 - Download the book (click image)
 
