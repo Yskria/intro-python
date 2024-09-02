@@ -24,6 +24,6 @@ To create your own copy of the repository, follow these steps:
 
 ## Step 2: Download the Book
 
-- Download the book that will be used throughout this tutorial [here](https://link.springer.com/book/10.1007/978-3-030-50356-7){:target="_blank"}. We'll be discussing chapters 1 through 4.
+- Download the book that will be used throughout this tutorial [here](https://link.springer.com/book/10.1007/978-3-030-50356-7). We'll be discussing chapters 1 through 4.
 
 [![book](book.jpeg)](https://drive.google.com/uc?export=download&id=1JoH2u7UZ82ZWywKAaHF0k85nQOuBZAb4)
